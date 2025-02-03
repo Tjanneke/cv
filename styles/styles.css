@@ -269,6 +269,10 @@ i {
   gap: 8rem;
 }
 
+.direct a {
+  text-decoration: none;
+}
+
 @media (max-width: 1024px) {
   section {
     margin-left: 1.5rem;
