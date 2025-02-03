@@ -271,6 +271,7 @@ i {
 
 .direct a {
   text-decoration: none;
+  color: #006866;
 }
 
 @media (max-width: 1024px) {
